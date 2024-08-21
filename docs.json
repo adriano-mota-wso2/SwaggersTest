@@ -846,7 +846,9 @@
     "title": "",
     "description": "Documentação da API gerencial.",
     "version": "1.0",
-    "contact": {}
+    "contact": {
+
+    }
   },
   "tags": [
     {
